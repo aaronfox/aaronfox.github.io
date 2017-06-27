@@ -1,3 +1,3 @@
-# [aaronfox.github.io](aaronfox.github.io)
+# [aaronfox.github.io](https://www.aaronfox.github.io)
 
-See [here](aaronfox.github.io)
+See [here](https://www.aaronfox.github.io)
